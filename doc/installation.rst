@@ -69,7 +69,7 @@ or `docker-miniconda <https://hub.docker.com/r/continuumio/miniconda3/>`_ .
 
 Installing scientific software on Windows can often be a pain, and
 `Docker <https://www.docker.com>`_ is a pretty good workaround.
-It takes some time to learn but worths the effort.
+It takes some time to learn but is worth the effort.
 Check out this `tutorial on using Docker with Anaconda
 <https://towardsdatascience.com/
 how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5>`_.
